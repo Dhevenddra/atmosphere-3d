@@ -1,0 +1,5 @@
+{
+  "name": "Atmosphere 3D",
+  "description": "An interactive 3D global weather visualizer using Globe.GL and Open-Meteo API. Features real-time weather data, global temperature heatmap, and local forecasts.",
+  "requestFramePermissions": []
+}
