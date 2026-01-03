@@ -1,8 +1,32 @@
-# Atmosphere 3D
+<div align="center">
 
-A minimalist, interactive 3D weather visualization application built with React and Globe.GL. This project renders a monochrome 3D globe, allowing users to explore real-time weather data and forecasts for any location on Earth using the Open-Meteo API.
+```txt
+                                                                                                       
+  ,---.    ,--.                                 ,--.                                 ,----. ,------.   
+ /  O  \ ,-'  '-.,--,--,--. ,---.  ,---.  ,---. |  ,---.  ,---. ,--.--. ,---. ,-----.'.-.  ||  .-.  \  
+|  .-.  |'-.  .-'|        || .-. |(  .-' | .-. ||  .-.  || .-. :|  .--'| .-. :'-----'  .' < |  |  \  : 
+|  | |  |  |  |  |  |  |  |' '-' '.-'  `)| '-' '|  | |  |\   --.|  |   \   --.       /'-'  ||  '--'  / 
+`--' `--'  `--'  `--`--`--' `---' `----' |  |-' `--' `--' `----'`--'    `----'       `----' `-------'  
+                                         `--'                                                               
+```
 
-![Atmosphere 3D Preview](https://via.placeholder.com/800x450?text=Atmosphere+3D+Preview)
+### 🌧️ **Atmosphere 3D**
+**A minimalist, interactive 3D weather visualization application built with React and Globe.GL. This project renders a monochrome 3D globe, allowing users to explore real-time weather data and forecasts for any location on Earth using the Open-Meteo API.**  
+
+---
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Dhevenddra/atmosphere-3d?color=blueviolet)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Dhevenddra/atmosphere-3d?color=brightgreen)
+![GitHub License](https://img.shields.io/badge/license-MIT-lightgrey)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-Build-orange?logo=vite)
+[![Atmosphere 3D Preview](https://img.shields.io/badge/Live%20Demo-%F0%9F%94%A7-brightgreen)](https://atmosphere-3d-ten.vercel.app/)
+
+</div>
+
+---
+
+<img src="landing.png" alt="Landing" width="100%" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.1)"/>
 
 ## Features
 
